@@ -8,4 +8,11 @@ Outcome:
 
 
 Charecterstics of software:
+	Functional Requirement
+	        - Give access to all the objects:
+		Students,teachers,professors
+		- Give access to authorized only
+
+	Non Functional Requirement:
+		    
 
